@@ -1,0 +1,28 @@
+_repo: The-Daguerreian-Journal-Vol-I-No-8-March-1-1851_63427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Humphrey, S. D. (Samuel Dwight)
+    alias: Humphrey, Samuel Dwight
+    birthdate: 1823
+    deathdate: 1883
+    gutenberg_agent_id: '105'
+    url: http://www.gutenberg.org/2009/agents/105
+description: ''
+gutenberg_issued: '2020-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Daguerreian Journal, Vol. I, No. 8, March 1, 1851
+url: http://www.gutenberg.org/ebooks/63427
