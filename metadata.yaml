@@ -1,5 +1,8 @@
 _repo: The-Daguerreian-Journal-Vol-I-No-8-March-1-1851_63427
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63427-h/images/cover.png
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '105'
     url: http://www.gutenberg.org/2009/agents/105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63427#The-Daguerreian-Journal-Vol-I-No-8-March-1-1851
 gutenberg_issued: '2020-10-10'
 gutenberg_type: Text
 identifiers:
